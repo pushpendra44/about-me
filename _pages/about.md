@@ -27,10 +27,19 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-<img width="1432" height="225" alt="image" src="https://github.com/user-attachments/assets/4e74c856-cb1f-403c-8f2c-57c7349d52c3" />
+<img
+  width="1432"
+  height="225"
+  alt="image"
+  src="https://github.com/user-attachments/assets/4e74c856-cb1f-403c-8f2c-57c7349d52c3"
+/>
 
-Pushpendra Singh is a PhD scholar in Engineering Sciences (Operations Research) at Dartmouth College, where he specializes in transportation network design, optimization modeling, and simulation. [...]
-Pushpendra holds two master's degrees from the University of Michigan: one in Industrial and Operations Engineering and another in Computational Discovery and Engineering. He completed his undergr[...]
-Professionally, Pushpendra has served as a SAP BW Consultant at Woolworths Group (TCS) in Sydney, Australia, where he developed automated data pipelines, optimized reporting tools, and co-develope[...]
-Pushpendra’s teaching experience includes roles as a Lecturer (forthcoming, January 2026) at Dartmouth College and as a Teaching Assistant for courses such as Statistical Methods in Engineering [...]
+Pushpendra Singh is a PhD scholar in Engineering Sciences (Operations Research) at Dartmouth College, where he specializes in transportation network design, optimization modeling, and simulation. [...]  
+
+Pushpendra holds two master's degrees from the University of Michigan: one in Industrial and Operations Engineering and another in Computational Discovery and Engineering. He completed his undergr[...]  
+
+Professionally, Pushpendra has served as a SAP BW Consultant at Woolworths Group (TCS) in Sydney, Australia, where he developed automated data pipelines, optimized reporting tools, and co-develope[...]  
+
+Pushpendra’s teaching experience includes roles as a Lecturer (forthcoming, January 2026) at Dartmouth College and as a Teaching Assistant for courses such as Statistical Methods in Engineering [...]  
+
 His technical skills span programming in Julia, MATLAB, and Python, and proficiency with tools such as Gurobi Optimizer, CVXPY, CPLEX, LaTeX, SAP BW/4 Hana, and Jira. Pushpendra has received sever[...]
