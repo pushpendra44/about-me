@@ -26,14 +26,6 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-
-<img
-  width="1432"
-  height="225"
-  alt="image"
-  src="https://github.com/user-attachments/assets/4e74c856-cb1f-403c-8f2c-57c7349d52c3"
-/>
-
 Pushpendra Singh is a PhD scholar in Engineering Sciences (Operations Research) at Dartmouth College, where he specializes in transportation network design, optimization modeling, and simulation. [...]  
 
 Pushpendra holds two master's degrees from the University of Michigan: one in Industrial and Operations Engineering and another in Computational Discovery and Engineering. He completed his undergr[...]  
