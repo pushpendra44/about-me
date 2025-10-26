@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Project 2
-description: Choice-Based Transportation Network Design
+title: Choice-Based Transportation Network Design
+description: with background image
 img: assets/img/project 2.jpeg
 importance: 2
 category: work
