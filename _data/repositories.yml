@@ -6,8 +6,3 @@ repo_description_lines_max: 2
 github_repos:
   - pushpendra44/OR_secheduling_tool
   - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
