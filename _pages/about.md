@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: [Affiliations](https://home.dartmouth.edu/) +1 (734) 834-6147. pushpendra.singh.th@dartmouth.edu
+subtitle: 
 
 profile:
   align: right
@@ -26,6 +26,7 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+[Affiliations](https://home.dartmouth.edu/). +1 (734) 834-6147. pushpendra.singh.th@dartmouth.edu
 
 Pushpendra Singh is PhD candidate in Engineering Sciences (Operations Research) at Dartmouth College, where he specializes in transportation network design, optimization modelling and simulation. His doctoral research, under guidance of [Dr. Vikrant Vaze](https://engineering.dartmouth.edu/community/faculty/vikrant-vaze), focuses on optimizing shared micromobility service networks and developing scalable algorithms for airline operations.
 
