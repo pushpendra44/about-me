@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href=['#'](https://home.dartmouth.edu/)>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: [Affiliations](https://home.dartmouth.edu/). +1 (734) 834-6147. pushpendra.singh.th@dartmouth.edu
 
 profile:
   align: right
