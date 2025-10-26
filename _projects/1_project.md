@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project 1
+title: Optimizing Shared Micromobility Service Network Design
 description: with background image
 img: assets/img/12.jpg
 importance: 1
