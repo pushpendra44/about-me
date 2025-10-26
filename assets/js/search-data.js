@@ -436,8 +436,8 @@ ninja.data = [{
             },},{id: "news-conference-presentation-at-informs-annual-meeting-atlanta-presenting-research-titled-choice-based-transportation-network-design-using-hybrid-reweighted-l1-norm-minimization-session-se07-human-transportation-networks-location-building-a-level-3-room-a307",
           title: 'Conference Presentation at INFORMS Annual Meeting, Atlanta Presenting research titled: Choice-Based Transportation Network...',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
+          section: "News",},{id: "projects-optimizing-shared-micromobility-service-network-design",
+          title: 'Optimizing Shared Micromobility Service Network Design',
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/about-me/projects/1_project/";
