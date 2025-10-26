@@ -441,9 +441,9 @@ ninja.data = [{
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/about-me/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'Project 2',
-          description: "Choice-Based Transportation Network Design",
+            },},{id: "projects-choice-based-transportation-network-design",
+          title: 'Choice-Based Transportation Network Design',
+          description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/about-me/projects/2_project/";
             },},{
