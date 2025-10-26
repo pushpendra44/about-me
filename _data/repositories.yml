@@ -4,7 +4,7 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
+  - pushpendra44/OR_secheduling_tool
   - jekyll/jekyll
   - twbs/bootstrap
   - jquery/jquery
