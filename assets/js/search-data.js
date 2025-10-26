@@ -438,7 +438,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-optimizing-shared-micromobility-service-network-design",
           title: 'Optimizing Shared Micromobility Service Network Design',
-          description: "with background image",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/about-me/projects/1_project/";
             },},{id: "projects-choice-based-transportation-network-design",
