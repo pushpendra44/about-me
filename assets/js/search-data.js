@@ -433,8 +433,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/about-me/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-conference-presentation-at-informs-annual-meeting-atlanta-presenting-research-titled-choice-based-transportation-network-design-using-hybrid-reweighted-l1-norm-minimization-session-se07-human-transportation-networks-location-building-a-level-3-room-a307",
+          title: 'Conference Presentation at INFORMS Annual Meeting, Atlanta Presenting research titled: Choice-Based Transportation Network...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
