@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Optimizing Shared Micromobility Service Network Design
-description:
 img: assets/img/project 2.jpeg
 importance: 1
 category: work
