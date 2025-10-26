@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: [Affiliations](https://home.dartmouth.edu/). +1 (734) 834-6147. pushpendra.singh.th@dartmouth.edu
+subtitle: [Affiliations](https://home.dartmouth.edu/) +1 (734) 834-6147. pushpendra.singh.th@dartmouth.edu
 
 profile:
   align: right
