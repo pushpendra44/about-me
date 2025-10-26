@@ -38,8 +38,8 @@ ninja.data = [{
             window.location.href = "/about-me/cv/";
           },
         },{id: "nav-teaching",
-          title: "teaching",
-          description: "Materials for courses you taught. Replace this text with your description.",
+          title: "Teaching",
+          description: "Coming Soon",
           section: "Navigation",
           handler: () => {
             window.location.href = "/about-me/teaching/";
