@@ -4,6 +4,7 @@ title: Choice-Based Transportation Network Design
 img: assets/img/project 1.jpeg
 importance: 2
 category: work
+related_publications: false
 ---
 
 Network design is a well-known problem in transportation systems. Most of the existing transportation network design studies treat customer demand as exogenous. In reality, demand is impacted by the level of service, which is itself determined by the network design. A network that carries the passengers/goods from origin to destination with a lower travel time is expected to attract a higher demand. Thus, optimal network design affects and is affected by demand. Capturing this two-way relationship requires modeling endogenous customer choice, significantly increasing the problem complexity. We formulate a mixed-integer non-convex optimization model for network design that embeds a discrete choice customer demand model within it. Integrality arises from arc and path selection variables which are binary, while non-convexity stems from embedded choice models such as the logit model. We propose a general and compact formulation to represent this class of problems.
