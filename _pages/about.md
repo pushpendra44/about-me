@@ -9,9 +9,9 @@ profile:
   image: prof-pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Cummings 225, Thayer School of Engineering</p>
+    <p>Dartmouth College</p>
+    <p>Hanover, United States</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
@@ -27,12 +27,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Pushpendra Singh is PhD scholar in Engineering Sciences (Operations Research) at Dartmouth College, where he specializes in transportation network design, optimization modelling and simulation. His doctoral research, under guidance of [Dr. Vikrant Vaze](https://engineering.dartmouth.edu/community/faculty/vikrant-vaze), focuses on optimizing shared micromobility service networks and developing scalable algorithms for airline operations.
+Pushpendra Singh is PhD candidate in Engineering Sciences (Operations Research) at Dartmouth College, where he specializes in transportation network design, optimization modelling and simulation. His doctoral research, under guidance of [Dr. Vikrant Vaze](https://engineering.dartmouth.edu/community/faculty/vikrant-vaze), focuses on optimizing shared micromobility service networks and developing scalable algorithms for airline operations.
 
 Pushpendra holds two years master's degrees from the University of Michigan: one in Industrial and Operations Engineering and another in Computational Discovery and Engineering. He completed his undergraduate studies in Mechanical Engineering from Dr. APJ Abdul Kalam Technical University, graduating with first class distinction.
 
-Professionally, Pushpendra has served as a SAP BW Consultant at Woolsworths Group (TCS) in Sydney, Australia, where he developed automated data pipelines, optimized reporting tools and co-developed inventory planning solutions. He also built a web-based scheduling system for Dartmouth College, automating student-instructor slot assignments. 
+Professionally, Pushpendra has served as a SAP BW Consultant at Woolsworths Group (TCS) in Sydney, Australia, where he developed automated data pipelines, optimized reporting tools and co-developed inventory planning solutions. 
 
-Pushpendra's teaching experience includes roles as a Lecturer (forthcoming, January 2026) at Dartmouth College and as a Teaching Assistant for courses such as Statistical Methods in Engineering and Operations Research. He has also been a Graduate Student Instructor for Time Series Analysis at the University of Michigan. 
-
-His technical skills span programming in Julia, MATLAB, and Python, and proficiency with tools such as Gurobi Optimizer, CVXPY, CPLEX, LaTeX, SAP BW/4 Hana, and Jira. Pushpendra has received several honors, including a citation for teaching excellence and a gold medal for his undergraduate thesis.
+Pushpendra will start as a Lecturer (forthcoming, January 2026) at Dartmouth College. He previously served as a Teaching Assistant for courses such as Statistical Methods in Engineering and Operations Research. He has also been a Graduate Student Instructor for Time Sesries Analysis at the University of Michigan-Ann Arbor.
