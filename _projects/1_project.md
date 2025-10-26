@@ -4,7 +4,7 @@ title: Optimizing Shared Micromobility Service Network Design
 img: assets/img/project 2.jpeg
 importance: 1
 category: work
-related_publications: true
+related_publications: false
 ---
 
 Shared micromobility systems (SMS), including bike and e-scooter sharing, support the shift toward sustainable urban mobility. However, their financial viability hinges on balancing capital investment and service reliability. Oversized fleets and stations waste resources, while shortages reduce customer satisfaction. This paper presents a mathematical and computational framework to optimize SMS design by aligning capacity decisions with customer demand. We formulate a mixed-integer non-convex optimization model to determine station locations, capacities, and micromobility and rebalancing vehicle fleet sizes. Our model integrates customer preferences via a discrete choice framework and captures key operational and rebalancing dynamics.
