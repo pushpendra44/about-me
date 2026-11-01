@@ -28,7 +28,7 @@ latest_posts:
 ---
 [Affiliations](https://home.dartmouth.edu/). +1 (734) 834-6147. pushpendra.singh.th@dartmouth.edu
 
-Pushpendra Singh is  a Teaching Faculty at Thayer School of Engineering, Dartmouth Coolege. He holds PhD in Engineering Sciences (Operations Research) from Dartmouth College. He specializes in transportation network design, optimization modelling and simulation. His doctoral research, under guidance of [Dr. Vikrant Vaze](https://engineering.dartmouth.edu/community/faculty/vikrant-vaze), focuses on optimizing shared micromobility service networks and developing scalable algorithms for airline operations.
+Pushpendra Singh is  a Teaching Faculty at Thayer School of Engineering, Dartmouth College. He holds PhD in Engineering Sciences (Operations Research) from Dartmouth College. He specializes in transportation network design, optimization modelling and simulation. His doctoral research, under guidance of [Dr. Vikrant Vaze](https://engineering.dartmouth.edu/community/faculty/vikrant-vaze), focuses on optimizing shared micromobility service networks and developing scalable algorithms for airline operations.
 
 Pushpendra holds two years master's degrees from the University of Michigan: one in Industrial and Operations Engineering and another in Computational Discovery and Engineering. He completed his undergraduate studies in Mechanical Engineering from Dr. APJ Abdul Kalam Technical University, graduating with first class distinction.
 
